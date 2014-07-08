@@ -1,0 +1,15 @@
+bin
+bin/**
+.cache
+.directory
+.worksheet
+.worksheet/**
+.classpath
+.settings
+.settings/**
+.project
+build
+build/**
+project/target
+project/project
+target
